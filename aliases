@@ -1,7 +1,5 @@
-# Copies from xsawyerx
 alias vi='vim'
-alias ls='ls --color=always'
-alias ll='ls -l --color=always'
+alias ll='ls -l'
 alias sshr='ssh -l root'
 alias scpresume='rsync --partial --progress -ae ssh'
 alias hosts='sudo vi /etc/hosts'
